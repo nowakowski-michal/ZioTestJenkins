@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjektZiotest\\ProjektZiotest.csproj": {}
+    "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\ProjektZiotest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjektZiotest\\ProjektZiotest.csproj": {
+    "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\ProjektZiotest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjektZiotest\\ProjektZiotest.csproj",
+        "projectUniqueName": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\ProjektZiotest.csproj",
         "projectName": "ProjektZiotest",
-        "projectPath": "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjektZiotest\\ProjektZiotest.csproj",
+        "projectPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\ProjektZiotest.csproj",
         "packagesPath": "C:\\Users\\minx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjektZiotest\\obj\\",
+        "outputPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\vs2022\\sdk\\NuGetPackages"

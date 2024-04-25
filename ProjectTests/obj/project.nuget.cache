@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ANVZRydyjvv75YfC7lrDVO/urlZXOBNpmTO356VFaj6tV32tiZmrSa9n81dRgNe4fXlQTnLi1w9h/TkCnKx1A==",
+  "dgSpecHash": "mtS7+gMUA24ERwR8BMmAcsE8PI0HbYPa4zMzAAkskVRqtWYVUCG0ROOBNAOVrGrArSO60TsQSPud9BvLPY8Fog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjectTests\\ProjectTests.csproj",
+  "projectFilePath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjectTests\\ProjectTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\minx\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\minx\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

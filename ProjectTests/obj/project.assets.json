@@ -8212,11 +8212,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjectTests\\ProjectTests.csproj",
+      "projectUniqueName": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjectTests\\ProjectTests.csproj",
       "projectName": "ProjectTests",
-      "projectPath": "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjectTests\\ProjectTests.csproj",
+      "projectPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjectTests\\ProjectTests.csproj",
       "packagesPath": "C:\\Users\\minx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjectTests\\obj\\",
+      "outputPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjectTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\vs2022\\sdk\\NuGetPackages"
@@ -8237,8 +8237,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjektZiotest\\ProjektZiotest.csproj": {
-              "projectPath": "C:\\Users\\minx\\Desktop\\kopie\\server\\ProjektZIO\\ProjektZiotest\\ProjektZiotest.csproj"
+            "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\ProjektZiotest.csproj": {
+              "projectPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\ProjektZiotest.csproj"
             }
           }
         }
