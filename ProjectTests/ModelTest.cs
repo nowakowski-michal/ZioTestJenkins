@@ -18,7 +18,7 @@ namespace ProjectTests
                 Id = 1,
                 Nick = "TestUser",
                 Date = DateTime.Now,
-                Result = 95,
+                Result = 900,
                 TestQuestions = new List<TestQuestion>()
             };
 
@@ -28,7 +28,7 @@ namespace ProjectTests
             Assert.Equal(1, test.Id);
             Assert.Equal("TestUser", test.Nick);
             Assert.Equal(DateTime.Now.Date, test.Date.Date); // Check if dates match ignoring time
-            Assert.Equal(95, test.Result);
+            Assert.Equal(900, test.Result);
             Assert.NotNull(test.TestQuestions);
             Assert.Empty(test.TestQuestions); // Check if TestQuestions list is empty initially
         }
