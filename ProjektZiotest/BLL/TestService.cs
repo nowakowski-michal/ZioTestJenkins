@@ -17,6 +17,7 @@ namespace ProjektZiotest.BLL
         {
             try
             {
+//y
                 return _context.Tests
                     .Where(t => t.Id == id)
                     .Select(t => new Test
