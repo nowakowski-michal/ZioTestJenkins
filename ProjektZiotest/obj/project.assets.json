@@ -3325,11 +3325,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\ProjektZiotest.csproj",
+      "projectUniqueName": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioGitAuto\\ProjektZiotest\\ProjektZiotest.csproj",
       "projectName": "ProjektZiotest",
-      "projectPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\ProjektZiotest.csproj",
+      "projectPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioGitAuto\\ProjektZiotest\\ProjektZiotest.csproj",
       "packagesPath": "C:\\Users\\minx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioTests\\ProjektZiotest\\obj\\",
+      "outputPath": "C:\\Users\\minx\\.jenkins\\workspace\\ProjektZioGitAuto\\ProjektZiotest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\vs2022\\sdk\\NuGetPackages"
